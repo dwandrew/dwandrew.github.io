@@ -1,11 +1,11 @@
 # Site settings
 author: Daniel Andrew
-title: 
+title: Despite the odds it somehow works.
 header-img: img/home-bg.png
 email: dwandrew@hotmail.com
 copyright_name: Daniel Andrew
 description: > # this means to ignore newlines until "baseurl:"
-  
+  An adventure into the depths of Coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  dwandrew
